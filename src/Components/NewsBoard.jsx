@@ -10,7 +10,7 @@ const NewsBoard = ({ category }) => {
   const pageSize = 10;
 
   const fetchArticles = async (page) => {
-    let apikey = "d682ff216bbc42c98b0678a510479264";
+    let apikey = "your_api_key";
     let url = `https://newsapi.org/v2/top-headlines?country=us&page=${page}&pageSize=${pageSize}&apikey=${apikey}`;
 
     try {
