@@ -32,8 +32,7 @@
 >   
 ![Screenshot (40)](https://github.com/user-attachments/assets/7f919ab2-c3a3-4559-83d3-32a12bdecb8e)
 
->   
->![Screenshot (63)](https://github.com/user-attachments/assets/071b3002-26df-4143-a433-05ea2e54ab5b)
+   
 > ![Screenshot (72)](https://github.com/user-attachments/assets/74bb5f2f-c299-4e51-89cf-004e124b796f)
 
 
