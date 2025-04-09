@@ -27,14 +27,16 @@
 ## 📸 Screenshots
 
 > _You can add some screenshots here later to showcase the UI._
+![Screenshot (39)](https://github.com/user-attachments/assets/085f5dc0-d2ca-49b8-b65e-6656ad8cc8c5)
+> ![Screenshot (41)](https://github.com/user-attachments/assets/ae68807c-d8fa-43e4-b580-960f0958b7dc)
+> ![Screenshot (40)](https://github.com/user-attachments/assets/c5a897a9-b3f4-4841-8571-031824543b60)
+>![Screenshot (63)](https://github.com/user-attachments/assets/071b3002-26df-4143-a433-05ea2e54ab5b)
+> ![Screenshot (72)](https://github.com/user-attachments/assets/74bb5f2f-c299-4e51-89cf-004e124b796f)
+
+
+
+
 
 ---
 
-## 📂 Installation
 
-To run this project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/daily-samachaar.git
-   cd daily-samachaar
